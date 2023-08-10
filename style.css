@@ -1,0 +1,39 @@
+/* Estilos para el cuerpo del documento */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #ffffff;
+    margin: 0;
+    padding: 20px;
+  }
+  html {
+  text-align: center;
+  background: rgb(255,255,255);
+background: linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 0%, rgba(0,18,255,1) 100%);
+}
+  /* Estilos para los campos de entrada */
+  input[type="number"] {
+    width: 200px;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  
+}
+  
+  /* Estilos para el botón de enviar */
+  button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: rgba(0,18,255,1);
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #45a049;
+  }
+
+
+  
